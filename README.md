@@ -1,3 +1,4 @@
+#Financial calc
 # Finance Calculator
 
 - **The Finance Calculator is a simple Python program designed to help you calculate the future value of your investments or the monthly payment on a home loan (bond). You can choose between investment calculations and bond calculations. Note that the bond calculation feature is not yet implemented in the provided code.**
