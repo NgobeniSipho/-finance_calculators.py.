@@ -1,4 +1,4 @@
-#Financial calc
+
 
 import math
 
